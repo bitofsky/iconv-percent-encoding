@@ -1,0 +1,21 @@
+{
+  "name": "iconv-percent-encoding",
+  "version": "1.0.0",
+  "description": "Percent encoding for x-www-form-urlencoded with iconv-lite",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  },
+  "author": "Hwang Bum-Seok",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitofsky/iconv-percent-encoding"
+  }
+}
