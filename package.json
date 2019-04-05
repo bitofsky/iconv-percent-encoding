@@ -1,6 +1,6 @@
 {
   "name": "iconv-percent-encoding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Percent encoding for x-www-form-urlencoded with iconv-lite",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,11 @@
     "type": "git",
     "url": "https://github.com/bitofsky/iconv-percent-encoding"
   },
-  "keywords": ["iconv", "iconv-lite", "x-www-form-urlencoded", "euckr", "form"]
+  "keywords": [
+    "iconv",
+    "iconv-lite",
+    "x-www-form-urlencoded",
+    "euckr",
+    "form"
+  ]
 }
