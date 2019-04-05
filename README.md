@@ -35,3 +35,6 @@ stringify({ a: input, b: input }, encodeCharset);
 
 ## Author
 [Hwang Bum-Seok](http://hbs.pe.kr) ([Email: bitofsky@naver.com](mailto:bitofsky@naver.com))
+
+## License
+MIT

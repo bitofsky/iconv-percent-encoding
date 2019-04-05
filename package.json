@@ -17,5 +17,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/bitofsky/iconv-percent-encoding"
-  }
+  },
+  "keywords": ["iconv", "iconv-lite", "x-www-form-urlencoded", "euckr", "form"]
 }
