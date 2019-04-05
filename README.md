@@ -1,7 +1,9 @@
 application/x-www-form-urlencoded로 문자열을 전송시, UTF-8이 아닌 타 문자셋 기반 서버로 문자열을 전송할 때 사용할 수 있는 모듈입니다.
 
 ## Install
+```
 npm install iconv-percent-encoding
+```
 
 ## Uses
 
